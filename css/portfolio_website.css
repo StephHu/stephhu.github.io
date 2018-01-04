@@ -1,0 +1,278 @@
+header {
+  /* position: absolute;
+  width: 500px;
+  height: 47px;
+  left: 188px;
+  top: 26px; */
+
+  font-family: Roboto Condensed;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 40px;
+
+  color: #000000;
+}
+
+.about {
+  /* position: absolute;
+  width: 706px;
+  height: 262px;
+  left: 188px;
+  top: 187px; */
+
+  font-family: Sarala;
+  font-style: normal;
+  font-weight: bold;
+  line-height: normal;
+  font-size: 28px;
+
+  color: #000000;
+}
+
+.AHS img {
+  position: absolute;
+  width: 1376px;
+  height: 589px;
+  left: 32px;
+  top: 510px;
+}
+
+.Rave img {
+  position: absolute;
+  width: 1376px;
+  height: 589px;
+  left: 32px;
+  top: 1134px;
+}
+
+.Baymax img {
+  position: absolute;
+  width: 1376px;
+  height: 589px;
+  left: 32px;
+  top: 1758px;
+}
+
+.EMI img {
+  position: absolute;
+  width: 1376px;
+  height: 589px;
+  left: 32px;
+  top: 2382px;
+}
+
+.AHS div.date {
+  position: absolute;
+  width: 473px;
+  height: 36px;
+  left: 188px;
+  top: 654px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #FFFFFF;
+}
+
+.AHS div.title {
+  position: absolute;
+  width: 638px;
+  height: 71px;
+  left: 188px;
+  top: 703px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  line-height: normal;
+  font-size: 60px;
+
+  color: #FFFFFF;
+}
+
+.AHS div.sub-title {
+  position: absolute;
+  width: 473px;
+  height: 36px;
+  left: 188px;
+  top: 788px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #FFFFFF;
+}
+
+.Rave div.date {
+  position: absolute;
+  width: 473px;
+  height: 36px;
+  left: 188px;
+  top: 1276px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #FFFFFF;
+}
+
+.Rave div.title {
+  position: absolute;
+  width: 133px;
+  height: 71px;
+  left: 188px;
+  top: 1325px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  line-height: normal;
+  font-size: 60px;
+
+  color: #FFFFFF;
+}
+
+.Rave div.sub-title {
+  position: absolute;
+  width: 982px;
+  height: 62px;
+  left: 188px;
+  top: 1414px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #FFFFFF;
+}
+
+.Baymax div.date {
+  position: absolute;
+  width: 473px;
+  height: 36px;
+  left: 188px;
+  top: 1900px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #FFFFFF;
+}
+
+.Baymax div.title {
+  position: absolute;
+  width: 215px;
+  height: 71px;
+  left: 188px;
+  top: 1949px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  line-height: normal;
+  font-size: 60px;
+
+  color: #FFFFFF;
+}
+
+.Baymax div.sub-title {
+  position: absolute;
+  width: 982px;
+  height: 62px;
+  left: 188px;
+  top: 2038px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #FFFFFF;
+}
+
+.EMI div.date {
+  position: absolute;
+  width: 473px;
+  height: 36px;
+  left: 188px;
+  top: 2524px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #FFFFFF;
+}
+
+.EMI div.title {
+  position: absolute;
+  width: 966px;
+  height: 71px;
+  left: 188px;
+  top: 2573px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  line-height: normal;
+  font-size: 60px;
+
+  color: #FFFFFF;
+}
+
+.EMI div.sub-title {
+  position: absolute;
+  width: 982px;
+  height: 62px;
+  left: 188px;
+  top: 2662px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #FFFFFF;
+}
+
+.footer {
+  position: absolute;
+  width: 982px;
+  height: 62px;
+  left: 188px;
+  top: 3000px;
+
+  font-family: Sarala;
+  font-style: normal;
+  font-weight: lighter;
+  line-height: normal;
+  font-size: 15px;
+
+  color: #A0A0A0;
+}
+
+
+/* -------------- font reference --------------
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Sarala', sans-serif;
+*/
